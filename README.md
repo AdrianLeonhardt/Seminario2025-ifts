@@ -3,7 +3,7 @@ Repositorio para la cursada 2025
 
 # Mi Proyecto Personal
 
-Este repositorio contiene una página web desarrollada como práctica del curso de GitHub. Incluye HTML, CSS y JavaScript básicos.
+Este repo es de prueba para la materia de Seminario.
 
 ## Características
 - Interfaz simple y responsive
@@ -21,4 +21,4 @@ Este repositorio contiene una página web desarrollada como práctica del curso 
 - JavaScript
 [Google](www.google.com.ar)
 ## Autor
-Pablo Fernando Melissari
+Adrian Leonhardt
